@@ -35,4 +35,5 @@ export const Button = styled.button`
 
 export const ItemContainer = styled.div`
   display: flex;
+  align-items: center;
 `;
